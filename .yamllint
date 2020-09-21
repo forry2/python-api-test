@@ -1,5 +1,5 @@
 ---
-#commento per rebuild
+#secondo commento per rebuild 
 rules:
   line-length:
     max: 120
